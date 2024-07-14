@@ -1,0 +1,18 @@
+c:\users\asus\documents\visual studio 2015\Projects\ButonuYakala\ButonuYakala\bin\Debug\ButonuYakala.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\ButonuYakala\ButonuYakala\bin\Debug\ButonuYakala.exe
+c:\users\asus\documents\visual studio 2015\Projects\ButonuYakala\ButonuYakala\bin\Debug\ButonuYakala.pdb
+c:\users\asus\documents\visual studio 2015\Projects\ButonuYakala\ButonuYakala\obj\Debug\ButonuYakala.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\ButonuYakala\ButonuYakala\obj\Debug\ButonuYakala.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\ButonuYakala\ButonuYakala\obj\Debug\ButonuYakala.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\ButonuYakala\ButonuYakala\obj\Debug\ButonuYakala.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\ButonuYakala\ButonuYakala\obj\Debug\ButonuYakala.exe
+c:\users\asus\documents\visual studio 2015\Projects\ButonuYakala\ButonuYakala\obj\Debug\ButonuYakala.pdb
+C:\Users\asus\Desktop\DOSYALAR\Uygulamalar\C#\ButonuYakala\ButonuYakala\bin\Debug\ButonuYakala.exe.config
+C:\Users\asus\Desktop\DOSYALAR\Uygulamalar\C#\ButonuYakala\ButonuYakala\obj\Debug\ButonuYakala.exe
+C:\Users\asus\Desktop\DOSYALAR\Uygulamalar\C#\ButonuYakala\ButonuYakala\obj\Debug\ButonuYakala.pdb
+C:\Users\asus\Desktop\DOSYALAR\Uygulamalar\C#\ButonuYakala\ButonuYakala\bin\Debug\ButonuYakala.exe
+C:\Users\asus\Desktop\DOSYALAR\Uygulamalar\C#\ButonuYakala\ButonuYakala\bin\Debug\ButonuYakala.pdb
+C:\Users\asus\Desktop\DOSYALAR\Uygulamalar\C#\ButonuYakala\ButonuYakala\obj\Debug\ButonuYakala.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\DOSYALAR\Uygulamalar\C#\ButonuYakala\ButonuYakala\obj\Debug\ButonuYakala.Form1.resources
+C:\Users\asus\Desktop\DOSYALAR\Uygulamalar\C#\ButonuYakala\ButonuYakala\obj\Debug\ButonuYakala.Properties.Resources.resources
+C:\Users\asus\Desktop\DOSYALAR\Uygulamalar\C#\ButonuYakala\ButonuYakala\obj\Debug\ButonuYakala.csproj.GenerateResource.Cache
